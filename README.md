@@ -1,16 +1,7 @@
-# askme
+# AskMe
 
-A new Flutter project.
+The original version of AskMe study application was developed by my father and his coworkers in Niva-Kaija school back in 90s. This mobile app is a stripped-down version of the original app, suitable for learning vocabularies, arithmetics, or anything that can be shaped into writable questions and short answers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow the instructions in [Flutter Docs](https://docs.flutter.dev/get-started/quick) to try out the application either on browser or your mobile device.
